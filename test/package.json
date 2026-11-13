@@ -1,0 +1,1 @@
+{"dependencies":{"ethers":"^6.0.0","ganache":"^7.0.0","solc":"^0.8.0"},"description":"Compile Cryto69 and run it on a local throwaway chain (in-memory, play money only).","name":"cryto69-local-test","private":true,"scripts":{"test":"node run-test.js"},"version":"1.0.0"}
